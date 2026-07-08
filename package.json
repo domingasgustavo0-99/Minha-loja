@@ -1,0 +1,12 @@
+{
+  "name": "erremby2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site de vendas com PIX (Vye) e aviso no Discord",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
